@@ -7,10 +7,12 @@
 ##### ⚡ Fun fact: I love Sushi :sushi:
 
 ## Work:
-##### I currently work at Kawasaki Robotics as a Robotics Software Engineer :robot:. 
-##### My main focus is on Real-Time Control(RTC) Software for Kawasaki Robots and supporting RTC projects
+##### I work at Kuka as a Senior Robotics Software Engineer 
+##### My main focus was on robot OS module development and external control interfaces for Kuka Robots.
+##### In my previous position I worked at Kawasaki Robotics as a Robotics Software Engineer :robot:. 
+##### My main focus was on Real-Time Control(RTC) Software for Kawasaki Robots and supporting RTC projects
 ##### I frequenly use ROS, C++, and Python to solve problems, debug, and make applications for robots. 
-##### I also do a little robot programming and hardware setup for testing new software applications. 
+##### I also do a little robot programming and hardware setup for developing new robot applications. 
 
 ## Fun: 
 ##### In my free time I like to play video games and basketball with friends :basketball::space_invader:.
