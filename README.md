@@ -7,9 +7,11 @@
 ##### ⚡ Fun fact: I love Sushi :sushi:
 
 ## Work:
-##### I work at Kuka as a Senior Robotics Software Engineer 
+##### I currently work at Locus Robotics as a Senior Robotics Integration Engineer on the R&D team
+##### I am working on cool new robotic systems to improve logistic fulfillment automation! 
+##### Previously I worked at Kuka as a Senior Robotics Software Engineer 
 ##### My main focus was on robot OS module development and external control interfaces for Kuka Robots.
-##### In my previous position I worked at Kawasaki Robotics as a Robotics Software Engineer :robot:. 
+##### I also worked at Kawasaki Robotics as a Robotics Software Engineer :robot:. 
 ##### My main focus was on Real-Time Control(RTC) Software for Kawasaki Robots and supporting RTC projects
 ##### I frequenly use ROS, C++, and Python to solve problems, debug, and make applications for robots. 
 ##### I also do a little robot programming and hardware setup for developing new robot applications. 
